@@ -1,4 +1,4 @@
-'use strict'
+'use strict' // webpack开发环境配置
 const utils = require('./utils')
 const webpack = require('webpack')
 const config = require('../config')

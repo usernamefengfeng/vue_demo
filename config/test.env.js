@@ -1,4 +1,5 @@
 'use strict'
+// 测试环境变量
 const merge = require('webpack-merge')
 const devEnv = require('./dev.env')
 
